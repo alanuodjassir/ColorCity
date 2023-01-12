@@ -10,7 +10,7 @@ Keeping You on update with Trendiest Colors In  Cars, Clothes, Wall Colors, and 
 And another useful feature.
   Picker Tool In Real Life
 
-Color City Uses The Camera To Tell You For example the Color You Are Painting At or the shirt you wear
+Color City Uses The Camera To Tell You For example the Color You Are Painting at. or the shirt you wear
 
 
 ## App InterFace

@@ -3,7 +3,7 @@ Color City is an App that Can Simplify Your Life By
 
 Trends Colors
 
-Keeping You on update with Trendiest Colors In  Cars, Clothes, War Colors, and More Things.
+Keeping You on update with Trendiest Colors In  Cars, Clothes, Wall Colors, and More Things.
 
  
 

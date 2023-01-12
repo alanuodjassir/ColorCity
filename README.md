@@ -1,4 +1,6 @@
 # ColorCity
+<img width="517" alt="image" src="https://user-images.githubusercontent.com/105976898/212086293-ba578a34-ded9-402d-a774-815388f07e36.png">
+
 Color City is an App that Can Simplify Your Life By 
 
 Trends Colors

@@ -1,22 +1,29 @@
 # ColorCity
 <img width="517" alt="image" src="https://user-images.githubusercontent.com/105976898/212086293-ba578a34-ded9-402d-a774-815388f07e36.png">
 
-Color City is an App that Can Simplify Your Life By 
 
-Trends Colors
+##Big Idea
+Inclusion
 
-Keeping You on update with Trendiest Colors In  Cars, Clothes, Wall Colors, and More Things.
+##Challenge Statement
+Make an inclusive solution that help People's needs to know the colors
 
- 
+##Solution Concept
+a  color picker to people who have color blind  who want to know the real color around them to design, draw so that they will know what colors they using
 
-And another useful feature.
-  Picker Tool In Real Life
+##Technologies & Tools
 
-Color City Uses The Camera To Tell You For example the Color You Are Painting at. or the shirt you wear.
+SwiftUI 
+
+##Demo of the App
 
 
-## App InterFace
-<img width="489" alt="Screenshot 1444-06-19 at 3 39 08 PM" src="https://user-images.githubusercontent.com/105976898/212068632-2c175c85-9856-46db-ba0a-02a324446948.png">
+##Challenge Summary
+
+
+
+
+
 
 
 

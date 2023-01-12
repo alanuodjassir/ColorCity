@@ -7,3 +7,5 @@ An application that helps people determine the color by using the camera and sho
 
 
 ## Authors 
+- [@Alanuodjassir](https://github.com/alanuodjassir)
+- [@Alanuodjassir](https://github.com/alanuodjassir)

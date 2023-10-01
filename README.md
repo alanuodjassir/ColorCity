@@ -36,6 +36,6 @@ https://user-images.githubusercontent.com/116815590/212163774-ca4639ef-e89b-42ca
 
 
 ## Authors 
-- [@ameerahhelayel](https://github.com/ameerahhelayel)
+- [@alanuodjassir](https://github.com/alanuodjassir)
 - [@ameerahali](https://github.com/ameerahali)
 
